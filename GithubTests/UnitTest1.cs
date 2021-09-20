@@ -10,7 +10,7 @@ namespace GithubTests
         public void TestMethod1()
         {
             //abhahajasseeeeeeee
-            //değişiklik 
+            //değişiklik jbhhvhvh
             //değişiklik 2
             Console.WriteLine("Hellööö");
             Console.WriteLine("Bir daha gönderdim");
