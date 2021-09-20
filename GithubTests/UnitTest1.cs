@@ -15,6 +15,7 @@ namespace GithubTests
             Console.WriteLine("Hellööö");
             Console.WriteLine("selam");
             Console.WriteLine("Bir daha gönderdiii1111iiimm");
+            Console.WriteLine("yeni branch");
         }
     }
 }
