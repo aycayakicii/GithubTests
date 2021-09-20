@@ -11,6 +11,7 @@ namespace GithubTests
         {
             //değişiklik 
             //değişiklik 2
+            Console.WriteLine("Hellööö");
         }
     }
 }
