@@ -9,6 +9,7 @@ namespace GithubTests
         [TestMethod]
         public void TestMethod1()
         {
+            //değişiklik
         }
     }
 }
