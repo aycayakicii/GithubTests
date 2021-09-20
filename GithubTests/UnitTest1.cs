@@ -9,6 +9,7 @@ namespace GithubTests
         [TestMethod]
         public void TestMethod1()
         {
+            //abhahaj
             //değişiklik 
             //değişiklik 2
             Console.WriteLine("Hellööö");
