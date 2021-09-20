@@ -13,7 +13,7 @@ namespace GithubTests
             //değişiklik jbhhvhvh
             //değişiklik 2
             Console.WriteLine("Hellööö");
-            Console.WriteLine("Bir daha gönderdim");
+            Console.WriteLine("Bir daha gönderdimmmmmm");
         }
     }
 }
